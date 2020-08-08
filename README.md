@@ -1,2 +1,2 @@
 # Stochastic-Process
-Contains various stochstic process' and their matlab implementation wiht visualization.
+Contains various stochastic process' and their matlab implementation wiht visualization.
